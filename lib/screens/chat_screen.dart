@@ -51,7 +51,7 @@ class _ChatScreenState extends State<ChatScreen> {
             ),
             Text(
               'by Udit Singh',
-              style: TextStyle(fontWeight: FontWeight.w200, fontSize: 11),
+              style: TextStyle(fontWeight: FontWeight.w400, fontSize: 11),
             )
           ],
         ),
